@@ -1,0 +1,165 @@
+.checkoutBtn {
+    -fx-background-color: rgb(174, 208, 158);
+    -fx-text-fill: rgb(101, 141, 83);
+    -fx-border-color: rgb(56, 127, 24);
+    -fx-border-width: 1.5px;
+}
+
+.checkoutBtn:pressed {
+    -fx-background-color: rgb(120, 168, 98);
+}
+
+.adminBtn {
+    -fx-background-color: rgb(240, 177, 163);
+    -fx-text-fill: rgb(178, 102, 57);
+    -fx-border-color: rgb(173, 88, 51);
+    -fx-border-width: 1.5px;
+}
+
+.adminBtn:pressed {
+    -fx-background-color: rgb(187, 131, 85);
+}
+
+.sweetTeaDiscBtn {
+    -fx-background-color: rgb(251, 191, 250);
+    -fx-text-fill: rgb(150, 87, 157);
+    -fx-border-color: rgb(171, 71, 179);
+    -fx-border-width: 1.5px;
+
+}
+
+.sweetTeaDiscBtn:pressed {
+    -fx-background-color: rgb(177, 111, 192);
+}
+
+.grilledCheeseSodaDiscBtn {
+    -fx-background-color: rgb(251, 191, 250);
+    -fx-text-fill: rgb(150, 87, 157);
+    -fx-border-color: rgb(171, 71, 179);
+    -fx-border-width: 1.5px;
+}
+
+.grilledCheeseSodaDiscBtn:pressed {
+    -fx-background-color: rgb(177, 111, 192);
+}
+
+.undoBtn {
+    -fx-background-color: rgb(176, 199, 219);
+    -fx-text-fill: rgb(87, 126, 157);
+    -fx-border-color: rgb(66, 101, 130);
+    -fx-border-width: 1.5px;
+}
+
+.undoBtn:pressed {
+    -fx-background-color: rgb(122, 149, 187);
+}
+
+.grilledCheeseBtn {
+    -fx-background-color: rgb(240, 216, 161);
+    -fx-text-fill:rgb(192, 139, 16);
+    -fx-border-color: rgb(173, 136, 50);
+    -fx-border-width: 1.5px;
+}
+
+.grilledCheeseBtn:pressed {
+    -fx-background-color: rgb(202, 168, 71);
+}
+
+.sweetTeaBtn {
+    -fx-background-color: rgb(240, 216, 161);
+    -fx-text-fill:rgb(192, 139, 16);
+    -fx-border-color: rgb(173, 136, 50);
+    -fx-border-width: 1.5px;
+}
+
+.sweetTeaBtn:pressed {
+    -fx-background-color: rgb(202, 168, 71);
+}
+
+.lemonadeBtn {
+    -fx-background-color: rgb(240, 216, 161);
+    -fx-text-fill:rgb(192, 139, 16);
+    -fx-border-color: rgb(173, 136, 50);
+    -fx-border-width: 1.5px;
+}
+
+.lemonadeBtn:pressed {
+    -fx-background-color: rgb(202, 168, 71);
+}
+
+.sodaBtn {
+    -fx-background-color: rgb(240, 216, 161);
+    -fx-text-fill:rgb(192, 139, 16);
+    -fx-border-color: rgb(173, 136, 50);
+    -fx-border-width: 1.5px;
+}
+
+.sodaBtn:pressed {
+    -fx-background-color: rgb(202, 168, 71);
+}
+
+.waterBtn {
+    -fx-background-color: rgb(240, 216, 161);
+    -fx-text-fill:rgb(192, 139, 16);
+    -fx-border-color: rgb(173, 136, 50);
+    -fx-border-width: 1.5px;
+}
+
+.waterBtn:pressed {
+    -fx-background-color: rgb(202, 168, 71);
+}
+
+.restockGrilledCheeseBtn {
+    -fx-background-color: rgb(240, 216, 161);
+    -fx-text-fill:rgb(192, 139, 16);
+    -fx-border-color: rgb(173, 136, 50);
+    -fx-border-width: 1.5px;
+}
+
+.restockGrilledCheeseBtn:pressed {
+    -fx-background-color: rgb(202, 168, 71);
+}
+
+.restockSweetTeaBtn {
+    -fx-background-color: rgb(240, 216, 161);
+    -fx-text-fill:rgb(192, 139, 16);
+    -fx-border-color: rgb(173, 136, 50);
+    -fx-border-width: 1.5px;
+}
+
+.restockSweetTeaBtn:pressed {
+    -fx-background-color: rgb(202, 168, 71);
+}
+
+.restockLemonadeBtn {
+    -fx-background-color: rgb(240, 216, 161);
+    -fx-text-fill:rgb(192, 139, 16);
+    -fx-border-color: rgb(173, 136, 50);
+    -fx-border-width: 1.5px;
+}
+
+.restockLemonadeBtn:pressed {
+    -fx-background-color: rgb(202, 168, 71);
+}
+
+.restockSodaBtn {
+    -fx-background-color: rgb(240, 216, 161);
+    -fx-text-fill:rgb(192, 139, 16);
+    -fx-border-color: rgb(173, 136, 50);
+    -fx-border-width: 1.5px;
+}
+
+.restockSodaBtn:pressed {
+    -fx-background-color: rgb(202, 168, 71); 
+}
+
+.restockWaterBtn {
+    -fx-background-color: rgb(240, 216, 161);
+    -fx-text-fill:rgb(192, 139, 16);
+    -fx-border-color: rgb(173, 136, 50);
+    -fx-border-width: 1.5px;
+}
+
+.restockWaterBtn:pressed {
+    -fx-background-color: rgb(202, 168, 71); 
+}
